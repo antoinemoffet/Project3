@@ -12,7 +12,6 @@ public class MyWorld extends World
     private Q1 q1;
     private Option1 option1;
     private Option2 option2;
-    //private String gameTitle[] = {"y" , "f" , "t", "f"};
     private int i;
 
     /**
@@ -50,7 +49,6 @@ public class MyWorld extends World
         addObject(option1, 250, 425);
         option2 = new Option2();
         addObject(option2, 600, 425);  
-        //addObject(gameTitle, 200, 500);
         
     }
     
