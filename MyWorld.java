@@ -45,11 +45,11 @@ public class MyWorld extends World
         scoreboard = new ScoreBoard();
         addObject(scoreboard, 103, 51);
         q1 = new Q1();
-        addObject(q1, 400, 200);
+        addObject(q1, 400, 225);
         option1 = new Option1();
-        addObject(option1, 200, 300);
+        addObject(option1, 250, 425);
         option2 = new Option2();
-        addObject(option2, 550, 300);  
+        addObject(option2, 600, 425);  
         //addObject(gameTitle, 200, 500);
         
     }
