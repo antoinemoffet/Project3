@@ -8,4 +8,5 @@ comment2.params=
 comment2.target=ScoreBoard\ getScoreBoard()
 comment3.params=
 comment3.target=void\ prepare()
+comment3.text=\r\n\ Instantiates\ memory\ for\ the\ objects\ and\ displays,\ in\ the\ world,\ with\ respect\ \r\n\ to\ the\ coordinates\r\n
 numComments=4
