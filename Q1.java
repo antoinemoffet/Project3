@@ -1,4 +1,4 @@
-import greenfoot.*;
+yyuimport greenfoot.*;
 
 /**
  * Write a description of class Q1 here.
