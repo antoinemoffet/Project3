@@ -7,6 +7,7 @@ comment1.target=ScoreBoard\ getScoreBoard()
 comment2.params=
 comment2.target=void\ prepare()
 comment2.text=\r\n\ Instantiates\ memory\ for\ the\ objects\ and\ displays,\ in\ the\ world,\ with\ respect\ \r\n\ to\ the\ coordinates\r\n
+<<<<<<< HEAD
 comment3.params=filename
 comment3.target=java.util.ArrayList\ loadFile(java.lang.String)
 comment4.params=
@@ -18,3 +19,6 @@ comment6.target=void\ setAnswer(int)
 comment7.params=
 comment7.target=void\ nextQuestion()
 numComments=8
+=======
+numComments=3
+>>>>>>> refs/remotes/pskonduru12/master
