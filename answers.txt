@@ -1,0 +1,7 @@
+# This file contains the list of whether each associated image/question is correct or not.
+# everything else can be implied from the image.  Images need to be named as follows:
+# "q0.png", "q1.png", ...
+true
+false
+false
+true

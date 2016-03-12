@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Response()
+comment1.params=trueFalse\ correctAns
+comment1.target=Response(boolean,\ boolean)
+comment2.params=isCorrect
+comment2.target=void\ setOption(boolean)
+comment3.params=logic
+comment3.target=void\ setTrueFalse(boolean)
+comment4.params=
+comment4.target=void\ act()
+numComments=5
