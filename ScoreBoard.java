@@ -39,7 +39,8 @@ public class ScoreBoard extends Actor
      */
     public ScoreBoard(int score)
     {
-        makeImage(title, prefix, score);
+        mak
+        eImage(title, prefix, score);
     }
 
     /**
