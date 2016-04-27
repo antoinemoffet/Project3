@@ -10,7 +10,6 @@ import java.util.ArrayList;
  */
 public class MyWorld extends World
 {
-    private ScoreBoard scoreboard;
     private Question question;
     public Response option1=new Response();
     public Response option2=new Response();
@@ -34,11 +33,7 @@ public class MyWorld extends World
          * the world. 
          */        
         prepare();
-    }
     
-    public ScoreBoard getScoreBoard()
-    {
-        return scoreboard;
     }
     
     /**
