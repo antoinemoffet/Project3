@@ -49,8 +49,8 @@ public class MyWorld extends World
         catch (IOException ioe){
             System.out.println("error");
         }
-        scoreboard = new ScoreBoard();
-        addObject(scoreboard, 103, 51);
+        
+
         
         question = new Question();
         addObject(question, 400, 225);  
